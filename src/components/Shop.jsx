@@ -6,7 +6,7 @@ import { Cart } from './Cart';
 import { BasketList } from './BasketList';
 import { Alert } from './Alert';
 import { Preloader } from './Preloader';
-
+ 
 function Shop() {
   const [goods, setGoods] = useState([]);
   const [loading, setLoading] = useState(true);

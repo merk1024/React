@@ -3,7 +3,8 @@ function Footer() {
     <footer className="page-footer blue darken-1">
       <div className="footer-copyright blue darken-2">
         <div className="container white-text">
-          © {new Date().getFullYear()}
+          © {new Date().getFullYear()}. Абдусаитов Эрбол
+         
         </div>
       </div>
     </footer>
